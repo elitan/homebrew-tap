@@ -1,6 +1,6 @@
 cask "pingbar" do
-  version "2.2.0"
-  sha256 "36bbe87fdbc09bbdeaef2f62a883b542ea13ac79494f2bf0bdf4847697beecfc"
+  version "2.3.0"
+  sha256 "4e4b3d3bb3d16fc0023c7eb10dc84d6b300befad586450cca44a5d8e08980ef7"
 
   url "https://github.com/elitan/ping-bar/releases/download/v#{version}/PingBar.dmg"
   name "PingBar"
